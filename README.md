@@ -12,7 +12,7 @@ Unity engine. Later on, I might make an HD version of the original, which will (
 I probably won't put up the original, because besides the fact that it's absolute shit, I used some graphics in it that
 I'm pretty sure were copyrighted.
 
-Anyways. I will be adding text files to the "logs" branch with each day of development, starting from today, March 21, 2012, Day 1.
+Anyways. I will be doing log/update things on March 21, 2013, Day 1.
 I might not do anything some days, so I'm sorry. If I don't do something one day, I'll probably either post something
 saying why, or I'll skip that day. If I skip a day, I won't skip a day number, I'll just use the next number the next day.
 I also plan to (hopefully) add in some sort of screenshot, video, gif, image, or something for each Day involving development.
